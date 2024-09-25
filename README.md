@@ -1,2 +1,2 @@
 # Diwali_Sales_Analysis
-It was a major project during my internship. In this project the analysis is done using various python libraries on jupyter notebook. I have even created various pivot tables and a dashboard using MS Excel..  
+During my internship, I led a significant project involving comprehensive data analysis using a range of Python libraries within Jupyter Notebook. Additionally, I designed detailed pivot tables and an insightful dashboard utilizing both MS Excel and Power BI to drive actionable insights.
